@@ -3,6 +3,7 @@ a=7.5
 
 #Esto es un tipo de dato entero
 b=20
+
 print("El resultado de la suma es:", a+b)
 print("El resultado de la resta es:", a-b)
 print("El resultado de la multiplicacion es:", a*b)
