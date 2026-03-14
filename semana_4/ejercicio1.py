@@ -24,7 +24,7 @@
 #ESCRIBIR "Hola, soy ", nombre
 #ESCRIBIR "Tengo ", edad, " años"
 #ESCRIBIR "Vivo en ", ciudad
-#ESCRIBIR "¿Es mayor de edad?", edad > 18
+#ESCRIBIR "¿Es mayor de edad?", edad >= 18
 #FIN
 
 nombre=input("Ingrese su nombre y aprellido ")
@@ -34,4 +34,4 @@ ciudad=input("Ingrese su ciudad de residencia ")
 print("Hola, soy",nombre)
 print("Tengo",edad,"años")
 print("Vivo en",ciudad)
-print("¿Es mayor de edad?", edad > 18)
+print("¿Es mayor de edad?", edad >= 18)
